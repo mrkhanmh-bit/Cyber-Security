@@ -1,0 +1,5 @@
+
+#### nikto 
+1 = nikto 
+2 = nikto -host nikto -h http://192.168.0.124
+3 = 

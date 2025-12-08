@@ -1,0 +1,8 @@
+1 = Open Linux Machin 
+2 = Go To The Terminal  and Wirtte burpsuite
+3 = go to the burpsuite --> proxy setting --> See the ip [127.0.0.1:8080] my proxy ip 
+4 = Open  firefox app --> setting --> General --> network settings --> click Manual proxy configuration
+5 =  HTTP Proxy [127.0.0.1] port 8080   @same ip and port use in burpsuite then ok
+6 = open firefox app and click http://burp  then download the certicate
+7 = Again go to the Privacy And Security and serch certicate -->view certicate -->import --> add the certicate
+8 

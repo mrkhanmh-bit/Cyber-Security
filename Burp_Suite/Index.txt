@@ -1,3 +1,6 @@
+
+##Burpsuite Setting In firefox
+
 1 = Open Linux Machin 
 2 = Go To The Terminal  and Wirtte burpsuite
 3 = go to the burpsuite --> proxy setting --> See the ip [127.0.0.1:8080] my proxy ip 

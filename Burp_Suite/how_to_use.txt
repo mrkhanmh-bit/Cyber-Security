@@ -1,0 +1,7 @@
+1 = open Terminal and  Wirtte burpsuite
+2 = first off the intersepter off
+3 = then go to the firefox and Wirte any website 
+4 = come back the the burpsuite and see the result
+5 = picture [01] click in website
+6 = picture [02] is burpsuite site
+7 = picture[03] if we click heder then oi see the page 

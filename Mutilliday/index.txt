@@ -1,0 +1,15 @@
+1 = open the owaps
+2 = picture 01 open mitaliday ll
+3 = go to the owaps 13 --> injection(other) --> html via with cookie injection-->capture data pake
+4 = then u go the page then open or on then intercep on and reload  the mutiliday page
+5 = and see the requset 
+6 = picure 02
+7 = edit the cookie side 
+Cookie: showhints=1; acopendivids=swingset,jotto,phpbb2,redmine; acgroupswithpersist=nada; PHPSESSID=hlago0nj62tgims1npma5gbie0
+Upgrade-Insecure-Requests: 1
+
+8 = edit PHPSESSID site
+9 = write the code <meta http-equiv="refresh" content="2; URL=https://www.google.com" />
+10 = Cookie: showhints=1; acopendivids=swingset,jotto,phpbb2,redmine; acgroupswithpersist=nada; PHPSESSID=<meta http-equiv="refresh" content="2; URL=https://www.google.com" />
+Upgrade-Insecure-Requests: 1
+11 = forword and intercept off

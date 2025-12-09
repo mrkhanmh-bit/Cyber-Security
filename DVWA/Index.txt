@@ -1,0 +1,11 @@
+@@@@ Use burpsuite  So That we See the vernability in dvwa
+
+
+1 = open dvwa in firefox
+2 = go to the burp and intersepter is off
+3 = picture 01
+4 = picture 02 click the intruder
+5 = picture 03
+
+
+####

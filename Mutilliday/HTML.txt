@@ -1,0 +1,8 @@
+# html injection
+
+1 = open mutiliday
+2 = picure 01
+3 = picture 02
+4 = fast html ke inject korte hobe aitar jonne burpsuite  ar intercep on kore the mitaliday ke refresh dite hobe 
+5 = picture 03
+6 = 
